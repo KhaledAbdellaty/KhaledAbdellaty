@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KhaledAbdellaty
-- 👀 I’m interested in mobile development by flutter
-- 💞️ I’m looking for opportunities as a software developer with an expert team of developers who will help advance my career progression to senior positions in the future.
+- 👋 Hi, I’m @KhaledAbdellaty.
+- 👀 I’m interested in mobile development by flutter.
+- 💞️ I’m looking for an opportunity with a professional team to gain experience in Testing Flutter apps and design patterns.
 - 📫 Reach me .. 
-- linkedin.com/in/khaled-abdellaty-274768225 
+- #linkedin.com/in/khaled-abdellaty-274768225 
 
 
 <!---
